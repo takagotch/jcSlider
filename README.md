@@ -2,7 +2,7 @@
 ---
 https://github.com/JoanClaret/jcSlider
 
-```
+```sh
 bower install jcslider --save
 npm install jcslider --save
 
@@ -41,6 +41,5 @@ npm install jcslider --save
 
 ```js
 require('jcSlider');
-
 ```
 
